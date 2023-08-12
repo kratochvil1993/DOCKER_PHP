@@ -1,3 +1,3 @@
-docker-compose up -build
+docker-compose up --build
 
-localhost:9000
+www: localhost:9000
